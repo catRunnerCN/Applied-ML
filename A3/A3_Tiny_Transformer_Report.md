@@ -1,5 +1,8 @@
 # A3 Report: Tiny Transformer for Shakespeare Next-Token Prediction
 
+Yitong Bai yb2636
+
+repo: <https://github.com/BrianBai093/Applied-ML/blob/main/A3/A3_Tiny_Transformer_Starter.ipynb>
 
 ## 1. Objective
 
